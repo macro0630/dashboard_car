@@ -8,7 +8,7 @@ from eda_app import run_eda_app
 from ml_app import run_ml_app
 
 def main():
-    st.title('자동차 가격 예측')
+    st.title('자동차 가격 예측 앱')
 
     # 사이드바 메뉴
     menu = ['Home', 'EDA', 'ML']
